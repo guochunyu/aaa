@@ -1,0 +1,19 @@
+http://moa.royasoft.com.cn/SupportLayer/Main/
+guocy 123456
+ 
+192.168.1.169  administrator zlw@roya_2012
+
+appid: xuxue@chinamobile.com  Xuxue571212
+
+svn帐号，用户名，密码均为名字全拼小写，修改密码请登录http://10.1.5.8/d/omsaccount/即可，已开通 http://218.206.178.27/RCS/src/trunk/eClient-iOS 的读写权限
+
+yangjie = df2acx3tanghj = 2332a2Ewaguocl = qhT27i
+svn://192.168.1.18/client2
+
+zyhcy无线密码：56882882
+
+用终端进入mailcore2-master目录执行 sudo chmod -R 777 *
+
+http://www.macappbox.com
+
+
