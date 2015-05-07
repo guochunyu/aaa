@@ -12,7 +12,7 @@ svn://192.168.1.18/client2
 
 zyhcy无线密码：56882882555
 
-用终端进入mailcore2-master目录执行 sudo chmod -R 777 *
+用终端进入mailcore2-master目录  gcvhgvghvhk执行 sudo chmod -R 777 *
 
 http://www.macappbox.com
 
